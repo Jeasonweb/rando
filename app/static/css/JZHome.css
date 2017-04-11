@@ -6,4 +6,16 @@
         * 修改時間：
         * ===================================================
         *****************************************************************/
-       
+       	
+       .carousel-inner>.item{
+		 	width: 100%;
+		 	height: 30rem;
+		 }
+		 .carousel-inner>.item>img{
+		 	width: 100%;
+		 	height: 100%;
+		 }
+		 .carousel-control{
+		 	font-size: 6rem;
+		 	line-height: 30rem;
+		 }
